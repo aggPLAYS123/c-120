@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(pink, magenta, rgb(197, 41, 228) );
+    text-align: center;
+  }
+
+
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .results_para_tag span{
+    white-space: pre-line;
+  }
+ 
+  .copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width:100%;
+    background-color:rgb(158, 8, 245);
+    line-height:3;
+    text-align:center;
+  }
+
+  #lens_img{
+    height: 100px;
+    width:100px;
+  }
+
+  .test_image_and_result{
+    background-color: Grey;
+    color:white;
+  }
